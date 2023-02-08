@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\Kolekcije\Liste\Liste\bin\Debug\Liste.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\Kolekcije\Liste\Liste\bin\Debug\Liste.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Kolekcije\Liste\Liste\bin\Debug\Liste.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\Kolekcije\Liste\Liste\obj\Debug\Liste.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Kolekcije\Liste\Liste\obj\Debug\Liste.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Kolekcije\Liste\Liste\obj\Debug\Liste.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Kolekcije\Liste\Liste\obj\Debug\Liste.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Kolekcije\Liste\Liste\obj\Debug\Liste.pdb
